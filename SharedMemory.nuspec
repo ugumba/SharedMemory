@@ -63,9 +63,9 @@ Usage: http://sharedmemory.codeplex.com/documentation</description>
         <file src=".\bin\Release\Net4\SharedMemory.dll" target="lib\net40" />
         <file src=".\bin\Release\Net4\SharedMemory.pdb" target="lib\net40" />
         <file src=".\bin\Release\Net4\SharedMemory.xml" target="lib\net40" />
-        <file src=".\bin\Release\Net35\SharedMemory.dll" target="lib\net35" />
+        <!--<file src=".\bin\Release\Net35\SharedMemory.dll" target="lib\net35" />
         <file src=".\bin\Release\Net35\SharedMemory.pdb" target="lib\net35" />
-        <file src=".\bin\Release\Net35\SharedMemory.xml" target="lib\net35" />
+        <file src=".\bin\Release\Net35\SharedMemory.xml" target="lib\net35" />-->
         <file src=".\bin\Release\netstandard2.0\SharedMemory.dll" target="lib\netstandard2.0" />
         <file src=".\bin\Release\netstandard2.0\SharedMemory.xml" target="lib\netstandard2.0" />
         <file src=".\SharedMemory\**\*.cs" target="src" />
